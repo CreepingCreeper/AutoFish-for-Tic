@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.creeping_creeper.autoticfish.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "autoticfish.refmap.json",
+  "client": [
+    "AutoFishHandlerMixin"
+  ],
+  "minVersion": "0.8",
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

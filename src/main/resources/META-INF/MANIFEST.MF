@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: autoticfish
+Specification-Vendor: creeping_creeper
+Specification-Version: 1
+Implementation-Title: AutoTicFish
+Implementation-Vendor: creeping_creeper
+Implementation-Timestamp: 2026-01-04T16:37:11+0800
+MixinConfigs: autoticfish.mixins.json
+
